@@ -10,20 +10,20 @@
 
 // Global Emails Configuration
 const CONFIG = {
-  REPORTING_EMAILS: ["bcc.finance03@gmail.com", "bcc.hrdteam@gmail.com"], //bcc finance and bcc hr team
-  GM_EMAIL: "ayu.septyani@educationone.net.au",
-  HR_EMAIL: "dyah.onederland@gmail.com",
+  REPORTING_EMAILS: ["xxx@youremail.com", "xxx@youremail.com"], //bcc finance and bcc hr team
+  GM_EMAIL: "xxx@youremail.com",
+  HR_EMAIL: "xxx@youremail.com",
   SPV_MAP: {
-    "Carbon Energy": "ika.widia@carbonenergy.net.au",
-    "Education ONE": "cesco.wowor@neuronerecruitment.com.au",
-    "English Cafe": "harris.englishcafe@gmail.com",
-    "General Manager": "ayu.septyani@educationone.net.au", 
-    "Neurone Recruitment": "cesco.wowor@neuronerecruitment.com.au",
-    "ONEderland Consulting": "ayu.karina@onederland.com.au",
-    "ONEderland Enterprise Finance": "sanistya.onederland@gmail.com",
-    "ONEderland Enterprise HRGA": "bwattbarooo@gmail.com", // SPV for HR tasks, if applicable
-    "PeraONE Xperience": "dyah.onederland@gmail.com", // SPV sementara ke HR, karena belom ada SPV.
-    "SnG OE": "suma.onederland@gmail.com"
+    "Carbon Energy": "xxx@youremail.com",
+    "Education ONE": "xxx@youremail.com",
+    "English Cafe": "xxx@youremail.com",
+    "General Manager": "xxx@youremail.com", 
+    "Neurone Recruitment": "xxx@youremail.com",
+    "ONEderland Consulting": "xxx@youremail.com",
+    "ONEderland Enterprise Finance": "xxx@youremail.com",
+    "ONEderland Enterprise HRGA": "xxx@youremail.com", // SPV for HR tasks, if applicable
+    "PeraONE Xperience": "xxx@youremail.com", // SPV sementara ke HR, karena belom ada SPV.
+    "SnG OE": "xxx@youremail.com"
   }
 };
 
