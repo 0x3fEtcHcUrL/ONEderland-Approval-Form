@@ -1,5 +1,5 @@
 # 📋 Leave Request System
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d847cad0c874e0f9ec4e3948080117a)](https://app.codacy.com/gh/anugrahiyyan/Approval-Leave-Request/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 A fully automated **Google Apps Script-based Leave Request System** with multi-stage approvals.
 
 ---
@@ -13,10 +13,6 @@ A fully automated **Google Apps Script-based Leave Request System** with multi-s
 - 📨 Final decision notifications sent to requester and reporting team
 - 📊 Google Sheet-powered backend for easy tracking and management
 - 🔄 Easily customizable and extendable
-
----
-
-## 📅 Coming Soon
 - ✅ Unique one-time tokens per approval link
 - ❌ Prevents multiple approvals or external tampering
 - 🚫 Displays a styled error message if token is missing, invalid, or already used
